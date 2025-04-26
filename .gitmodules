@@ -5,3 +5,6 @@
 [submodule "SQLFormatteR"]
 	path = SQLFormatteR
 	url = https://github.com/dataupsurge/sqlformatter
+[submodule "configulaR"]
+	path = configulaR
+	url = https://github.com/dataupsurge/configular
